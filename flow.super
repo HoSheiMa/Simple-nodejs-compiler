@@ -1,0 +1,13 @@
+# our language plan
+1 - works on functions, class
+2 - if else
+3 - loops(etc)
+4 - types 
+5 - super (functions, syntax)
+6 - Errors helper ( this will auto fix the errors, add endLine, suggest fix or way to fix this error )
+7 - compiler to others language (php, c++, java, c, kotlin, go, etc) 
+8 - add color to code, maybe make ext for vscode to help to code
+
+
+programmer notes 
+1 - make a clean code and add comments !!!!!
